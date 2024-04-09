@@ -1,35 +1,26 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
+Esteban Chaparro
 
-Bienvenidos a
-# ProgramaciÛn con objetos I
+Hola! mi nombre es Esteban, soy de la ciudad de Villa Constituci√≥n. Estamos al l√≠mite de Provincia de Bs. As. a 5 km de la ciudad de San Nicol√°s.
+Estudio la Tecnicatura en Programaci√≥n de Videojuegos por medio del Centro Cultural Atlas de Rosario.
 
-En esta materia aprender·n sobre la famosa POO _(OOP en inglÈs)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+![RETROjpg 0070](https://github.com/obj1-unahur-2024s1/presentacionPersonal-EstebanChaparro/assets/109486668/d39d0e57-e944-40d4-941b-7673967f51f5)
+Este soy yo, lo dibuj√© en la materia de Arte Digital 2d, la cual aprendimos varias t√©cnicas de animacion 2d.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Les comparto algo de lo que hice:
+https://drive.google.com/file/d/13xcJYbQ1OkNmMzclFx7hL2-5EIqSsJ0X/view?usp=drive_link
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisiÛn 1 **turno noche**: Martes 18 a 22hs y S·bado 10 a 12hs.
-* Horario comisiÛn 2 **turno maÒana**: MiÈrcoles 8 a 12hs y S·bado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo Gonz·lez Tulian, Lucas Spigariol, Cristian Ciarallo y Hern·n Coniglio
-* Adem·s nos acompaÒan como colaboradores Valentino Chiappanni, Manuel NuÒez y Lucian Coniglio.
+Soy Profesor de Educaci√≥n Musical. Durante la pandemia aproximadamente empec√© con la curiosidad de aprender alg√∫n oficio y/o de alguna manera volver a una de mis pasiones que es el dise√±o gr√°fico, trabaj√© varios a√±os en una gr√°fica de formulario continuo, imprenta y luego me arm√© un taller de serigraf√≠a en mi casa.
+En esa b√∫squeda descubr√≠ esta carrera y me re enganch√©, lo bueno es que tuvimos una muy buena oprtunidad de cursar solamente los s√°bados y completamente gratis.
 
-## Links importantes :monocle_face:
-- [x] [P·gina principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
+De computaci√≥n aparte de hacer dise√±o gr√°fico nunca supe mucho, les dir√≠a casi nada, no sab√≠a ni siquiera que era comprimir un archivo. A medida que fuimos haciendo las materias fu√≠ aprendiendo de poco todas estas cuestiones.
+Me gusta mucho el Arte Digital y la programaci√≥n la veo como algo alucinante (como que es otro mundo), la voy entendiendo, lo que me cuesta bastante es todo el tema de Internet.
+
+El arte de los Videojuegos en general me fascina y pude complementar algo que aprend√≠ bastante desde chico y que es mi pasi√≥n N¬∫ 1 que es la m√∫sica.
+Estoy aprendiendo producci√≥n musical para Videojuegos, ya particip√© de varias Gamejam, y sigo practicando y componiendo.
+Les comparto algo que estuve haciendo:
+https://www.youtube.com/watch?v=-I1p4P7-M_I
 
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
 
-* [GuÌa R‡pida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglÈs)_
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
